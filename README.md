@@ -12,7 +12,7 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   languages = ["Java", "Python", "Go"];
   frameworks = ["Spring Boot for Java", "Django for Python", "Fiber for Go"];
-  DataBases = ["SQL", "MongoDb"];
+  DataBases = ["MySQL", "MongoDb"];
 }
 ```
 
