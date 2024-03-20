@@ -2,17 +2,18 @@
 ```js
 import Developer from "invictuzzzzz";
 
+import Developer from "invictuzzzzz";
+
 class AboutMe extends Developer {
   name = "Daniel Diaz Diaz";
   area = "BackEnd Developer";
   work = "Job hunting.";
- 
 }
 
 class Skills extends Developer {
-  languages = ["Java, Python, Go"];
-  frameworks = ["Spring Boot for Java,  Django for Python and Fiber for Go "];
-  DataBases =  ["SQL and MongoDb"]
+  languages = ["Java", "Python", "Go"];
+  frameworks = ["Spring Boot for Java", "Django for Python", "Fiber for Go"];
+  DataBases = ["SQL", "MongoDb"];
 }
 ```
 
