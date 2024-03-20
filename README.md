@@ -1,16 +1,16 @@
-### Hi there 👋
+```js
+import Desenvolvedor from "invictuzzzzz";
 
-<!--
-**invictuzzzzz/invictuzzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class AboutMe extends Developer {
+  name = "Daniel Diaz Diaz";
+  area = "BackEnd Developer";
+  work = "Job hunting.";
+ 
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Developer {
+  linguagens = ["Java, Python, Go"];
+  frameworks = ["Spring Boot for Java,  Django for Python and Fiber for Go "];
+  DataBases =  ["SQL and MongoDb"]
+}
+```
