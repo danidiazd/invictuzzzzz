@@ -2,7 +2,6 @@
 ```js
 import Developer from "invictuzzzzz";
 
-import Developer from "invictuzzzzz";
 
 class AboutMe extends Developer {
   name = "Daniel Diaz Diaz";
