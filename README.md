@@ -64,7 +64,7 @@ class Skills extends Developer {
 ## Donde encontrarme.
 
 [![Linkedin](https://img.shields.io/badge/-Dani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-diaz-diaz-b58707294)](https://www.linkedin.com/in/daniel-diaz-diaz-b58707294)
-[![Gmail Badge](https://img.shields.io/badge/-dan1@hotmail.es-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dan1@hotmail.es)](mailto:dan1@hotmail.es)
+[![Gmail Badge](https://img.shields.io/badge/-Dani-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dan1@hotmail.es)](mailto:dan1@hotmail.es)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/invictuzzzzz)
 
 
