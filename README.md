@@ -16,8 +16,8 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["Java", "Python", "Go"];
-  frameworks = ["Spring Boot for Java", "Django for Python", "Fiber for Go"];
+  languages = ["Java", "Python", "Angular", "JavaScript", "CSS"];
+  frameworks = ["Spring Boot for Java", "Django for Python", "Fiber for Go" etc];
   DataBases = ["MySQL", "MongoDb"];
 }
 ```
@@ -27,9 +27,9 @@ class Skills extends Developer {
 ## Sobre mi :
 
 - 🤔 Curioso por naturaleza y con ganas de aprender.
-- 🎓 Estudiante de {BackEnd Java} en {@IT-Academy BCN}.
+- 🎓 Graduado de {BackEnd Java & SpringBoot} en {@IT-Academy BCN}.
 - 💼 En busqueda de empleo.
-- 🌱 Aprendiendo mas sobre {Go & Python}.
+- 🌱 Aprendiendo mas sobre {Angular & Python}.
 
 ## Mis Skills.
 
