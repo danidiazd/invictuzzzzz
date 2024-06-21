@@ -27,7 +27,7 @@ class Skills extends Developer {
 ## Sobre mi :
 
 - 🤔 Curioso por naturaleza y con ganas de aprender.
-- 🎓 Graduado de {BackEnd Java & SpringBoot} en {@IT-Academy BCN}.
+- 🎓 Graduado de BackEnd Java & SpringBoot en @IT-Academy BCN.
 - 💼 En busqueda de empleo.
 - 🌱 Aprendiendo mas sobre {Angular & Python}.
 
