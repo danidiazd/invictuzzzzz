@@ -38,7 +38,7 @@ class Skills extends Developer {
 **Aplicaciones y datos.**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
 ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
