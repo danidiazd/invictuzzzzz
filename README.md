@@ -1,6 +1,6 @@
 <h2>
   <a href="https://github.com/invictuzzzzz?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FF2D2D&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Dani+Diaz+%F0%9F%91%8B%F0%9F%8F%BB;Graduate+from+IT+Academy+%F0%9F%8E%93;Open+to+work+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB" alt="danidd banner" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FF2D2D&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Dani+Diaz+%F0%9F%91%8B%F0%9F%8F%BB;Graduate+from+IT+Academy+ BCN+%F0%9F%8E%93;Open+to+work+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB" alt="danidd banner" />
   </a>
 </h2>
 
